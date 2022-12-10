@@ -1,0 +1,68 @@
+param: SUPPLIES : s :=
+PLANT1 300
+PLANT2 200
+PLANT3 100;
+param: T: d:=
+1 230
+2 250
+3 200
+4 170
+5 230
+6 190;
+param: T: R:=
+
+1 10
+2 10
+3 10
+4 10
+5 10
+6 10;
+param c: 1 2 3 4 5 6:=
+PLANT1 5 5 5 5 5 5
+PLANT2 15 15 15 15 15 15
+PLANT3 30 30 30 30 30 30;
+
+param cu :=
+PLANT1 800
+PLANT2 500
+PLANT3 250;
+
+param Ru :=
+PLANT1 50
+PLANT2 60
+PLANT3 70;
+
+param Su :=
+PLANT1 100
+PLANT2 70
+PLANT3 40;
+
+param Rd :=
+PLANT1 30
+PLANT2 40
+PLANT3 50;
+
+param Sd :=
+PLANT1 80
+PLANT2 50
+PLANT3 30;
+
+param Tu :=
+PLANT1 3
+PLANT2 2
+PLANT3 1;
+
+param Td :=
+PLANT1 2
+PLANT2 2
+PLANT3 2;
+
+param pUp :=
+PLANT1 300
+PLANT2 200
+PLANT3 100;
+
+param plow :=
+PLANT1 50
+PLANT2 50
+PLANT3 30;
